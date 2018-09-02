@@ -18,7 +18,7 @@
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=oGategh">入口</a><br/>
       <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=oGategh">入口</a>
       <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=oGategh">入口</a>
-      <a href="https://s3-ap-northeast-1.amazonaws.com/ogatet/show.htm?from=oGategh">入口</a><br/>
+      <a href="https://s3.ap-northeast-1.amazonaws.com/ogatet/show.htm?from=oGategh">入口</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
